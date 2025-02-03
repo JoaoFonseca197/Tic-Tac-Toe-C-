@@ -1,5 +1,8 @@
-#include "Game.h"
 #include <iostream>
+#include "Game.h"
+#include "UI.h"
+#include "Model.h"
+
 
 
 void Game::StartGame()
@@ -7,19 +10,23 @@ void Game::StartGame()
 
 	int turn = 0;
 	bool gameEnd = false;
+	UI UI;
+	Model model;
 
-	bool x;
-
-	while (!gameEnd)
+	UI.PrintBoard(model.board);
+	
+	/*while (!gameEnd)
 	{
-		std::cout << "Entered game";
-		std::cin >> x;
-		if (x == 0)
+		if (turn % 2 == 0)
 		{
-			gameEnd = true;
-			std::cout << "Exiting game";
+			UI.PrintMessage("Player X make your move");
 		}
-	}
+		else
+		{
+			UI.PrintMessage("Player O make your move");
+		}
+		break;
+	}*/
 
 
 }

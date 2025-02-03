@@ -1,6 +1,6 @@
 #pragma once
 enum State	
 {
-	X,
-	O
+	X = 1,
+	O = 0
 };
