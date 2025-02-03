@@ -8,25 +8,41 @@
 void Game::StartGame()
 {
 
-	int turn = 0;
-	bool gameEnd = false;
-	UI UI;
-	Model model;
-
+	int		turn = 0;
+	bool	gameEnd = false;
+	bool	moveVerification;
+	UI		UI;
+	Model	model;
+	int		playerMove;
 	UI.PrintBoard(model.board);
 	
-	/*while (!gameEnd)
+	
+	
+	while (!gameEnd)
 	{
-		if (turn % 2 == 0)
+		char currentPlayer;
+		
+		if (model.getTurn() % 2 == 0)
 		{
-			UI.PrintMessage("Player X make your move");
+			currentPlayer = 'X';
+			UI.PrintMessage("Player X make your move\n");
 		}
 		else
 		{
-			UI.PrintMessage("Player O make your move");
+			currentPlayer = 'O';
+			UI.PrintMessage("Player O make your move\n");
 		}
-		break;
-	}*/
+
+		std::cin >> playerMove;
+		moveVerification = model.VerifyMove(playerMove);
+
+		if (moveVerification)
+		{
+			model.MakeMove(playerMove,currentPlayer);
+		}
+		UI.PrintBoard(model.board);
+
+	}
 
 
 }

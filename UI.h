@@ -6,6 +6,6 @@ class UI
 {
 	public:
 		void PrintMessage(std:: string);
-		void PrintBoard(State board[]);
+		void PrintBoard(char board[]);
 };
 

@@ -3,31 +3,31 @@
   "WorkspaceRootPath": "C:\\Users\\Joao\\Desktop\\COdeETst\\TicTacToe\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1071C300-B9B3-4D3E-B061-44D923706AA0}|TicTacToe.vcxproj|C:\\Users\\Joao\\Desktop\\COdeETst\\TicTacToe\\State.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{1071C300-B9B3-4D3E-B061-44D923706AA0}|TicTacToe.vcxproj|solutionrelative:State.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{1071C300-B9B3-4D3E-B061-44D923706AA0}|TicTacToe.vcxproj|C:\\Users\\Joao\\Desktop\\COdeETst\\TicTacToe\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1071C300-B9B3-4D3E-B061-44D923706AA0}|TicTacToe.vcxproj|solutionrelative:Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1071C300-B9B3-4D3E-B061-44D923706AA0}|TicTacToe.vcxproj|C:\\Users\\Joao\\Desktop\\COdeETst\\TicTacToe\\Model.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{1071C300-B9B3-4D3E-B061-44D923706AA0}|TicTacToe.vcxproj|solutionrelative:Model.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1071C300-B9B3-4D3E-B061-44D923706AA0}|TicTacToe.vcxproj|C:\\Users\\Joao\\Desktop\\COdeETst\\TicTacToe\\UI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{1071C300-B9B3-4D3E-B061-44D923706AA0}|TicTacToe.vcxproj|solutionrelative:UI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{1071C300-B9B3-4D3E-B061-44D923706AA0}|TicTacToe.vcxproj|C:\\Users\\Joao\\Desktop\\COdeETst\\TicTacToe\\Model.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1071C300-B9B3-4D3E-B061-44D923706AA0}|TicTacToe.vcxproj|solutionrelative:Model.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1071C300-B9B3-4D3E-B061-44D923706AA0}|TicTacToe.vcxproj|C:\\Users\\Joao\\Desktop\\COdeETst\\TicTacToe\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{1071C300-B9B3-4D3E-B061-44D923706AA0}|TicTacToe.vcxproj|solutionrelative:Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{1071C300-B9B3-4D3E-B061-44D923706AA0}|TicTacToe.vcxproj|C:\\Users\\Joao\\Desktop\\COdeETst\\TicTacToe\\State.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1071C300-B9B3-4D3E-B061-44D923706AA0}|TicTacToe.vcxproj|solutionrelative:State.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1071C300-B9B3-4D3E-B061-44D923706AA0}|TicTacToe.vcxproj|C:\\Users\\Joao\\Desktop\\COdeETst\\TicTacToe\\UI.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{1071C300-B9B3-4D3E-B061-44D923706AA0}|TicTacToe.vcxproj|solutionrelative:UI.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1071C300-B9B3-4D3E-B061-44D923706AA0}|TicTacToe.vcxproj|C:\\Users\\Joao\\Desktop\\COdeETst\\TicTacToe\\Model.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{1071C300-B9B3-4D3E-B061-44D923706AA0}|TicTacToe.vcxproj|solutionrelative:Model.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\format||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1071C300-B9B3-4D3E-B061-44D923706AA0}|TicTacToe.vcxproj|C:\\PROGRAM FILES\\MICROSOFT VISUAL STUDIO\\2022\\COMMUNITY\\VC\\TOOLS\\MSVC\\14.42.34433\\INCLUDE\\FORMAT||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{1071C300-B9B3-4D3E-B061-44D923706AA0}|TicTacToe.vcxproj|C:\\Users\\Joao\\Desktop\\COdeETst\\TicTacToe\\UI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1071C300-B9B3-4D3E-B061-44D923706AA0}|TicTacToe.vcxproj|solutionrelative:UI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1071C300-B9B3-4D3E-B061-44D923706AA0}|TicTacToe.vcxproj|C:\\Users\\Joao\\Desktop\\COdeETst\\TicTacToe\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -45,11 +45,39 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UI.h",
+              "DocumentMoniker": "C:\\Users\\Joao\\Desktop\\COdeETst\\TicTacToe\\UI.h",
+              "RelativeDocumentMoniker": "UI.h",
+              "ToolTip": "C:\\Users\\Joao\\Desktop\\COdeETst\\TicTacToe\\UI.h",
+              "RelativeToolTip": "UI.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-03T01:48:15.171Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "UI.cpp",
+              "DocumentMoniker": "C:\\Users\\Joao\\Desktop\\COdeETst\\TicTacToe\\UI.cpp",
+              "RelativeDocumentMoniker": "UI.cpp",
+              "ToolTip": "C:\\Users\\Joao\\Desktop\\COdeETst\\TicTacToe\\UI.cpp",
+              "RelativeToolTip": "UI.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-03T01:49:10.934Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "format",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\format",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\format",
@@ -62,52 +90,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "Model.cpp",
               "DocumentMoniker": "C:\\Users\\Joao\\Desktop\\COdeETst\\TicTacToe\\Model.cpp",
               "RelativeDocumentMoniker": "Model.cpp",
               "ToolTip": "C:\\Users\\Joao\\Desktop\\COdeETst\\TicTacToe\\Model.cpp",
               "RelativeToolTip": "Model.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-02-03T02:00:34.127Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UI.cpp",
-              "DocumentMoniker": "C:\\Users\\Joao\\Desktop\\COdeETst\\TicTacToe\\UI.cpp",
-              "RelativeDocumentMoniker": "UI.cpp",
-              "ToolTip": "C:\\Users\\Joao\\Desktop\\COdeETst\\TicTacToe\\UI.cpp",
-              "RelativeToolTip": "UI.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-03T01:49:10.934Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UI.h",
-              "DocumentMoniker": "C:\\Users\\Joao\\Desktop\\COdeETst\\TicTacToe\\UI.h",
-              "RelativeDocumentMoniker": "UI.h",
-              "ToolTip": "C:\\Users\\Joao\\Desktop\\COdeETst\\TicTacToe\\UI.h",
-              "RelativeToolTip": "UI.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-02-03T01:48:15.171Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "State.h",
               "DocumentMoniker": "C:\\Users\\Joao\\Desktop\\COdeETst\\TicTacToe\\State.h",
               "RelativeDocumentMoniker": "State.h",
               "ToolTip": "C:\\Users\\Joao\\Desktop\\COdeETst\\TicTacToe\\State.h",
               "RelativeToolTip": "State.h",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAQAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-02-03T01:23:23.985Z",
               "EditorCaption": ""
@@ -120,20 +122,20 @@
               "RelativeDocumentMoniker": "Model.h",
               "ToolTip": "C:\\Users\\Joao\\Desktop\\COdeETst\\TicTacToe\\Model.h",
               "RelativeToolTip": "Model.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-02-03T01:17:35.504Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Game.cpp",
               "DocumentMoniker": "C:\\Users\\Joao\\Desktop\\COdeETst\\TicTacToe\\Game.cpp",
               "RelativeDocumentMoniker": "Game.cpp",
               "ToolTip": "C:\\Users\\Joao\\Desktop\\COdeETst\\TicTacToe\\Game.cpp",
               "RelativeToolTip": "Game.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAUwCQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-02-03T01:16:09.172Z",
               "EditorCaption": ""

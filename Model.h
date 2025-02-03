@@ -2,12 +2,15 @@
 #include "State.h"
 class Model
 {
-	private: 
+	private:
+		int turn = 0;
 		//State board[9] = { X,X,X,X,X,X,X,X,X };
 
 	public :
-		void MakeMove(int position, State player);
-		State board[9] = { X,X,X,X,X,X,X,X,X };
+		int		getTurn();
+		bool	VerifyMove(int position);
+		void	MakeMove(int position, char player);
+		char board[9] = { ' ',' ',' ',' ',' ',' ',' ',' ',' '};
 
 };
 

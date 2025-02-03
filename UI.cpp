@@ -5,7 +5,7 @@ void UI::PrintMessage( std::string message )
 	std::cout << message;
 }
 
-void UI::PrintBoard(State board[])
+void UI::PrintBoard(char board[])
 {
 	std::cout << "|  " << board[0] << "  |  " << board[1] << "  |  " << board[2] << "  |\n";
 	std::cout << "|-----|-----|-----|\n";
