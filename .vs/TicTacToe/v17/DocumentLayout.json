@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Joao\\Desktop\\COdeETst\\TicTacToe\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1071C300-B9B3-4D3E-B061-44D923706AA0}|TicTacToe.vcxproj|C:\\Users\\Joao\\Desktop\\COdeETst\\TicTacToe\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1071C300-B9B3-4D3E-B061-44D923706AA0}|TicTacToe.vcxproj|solutionrelative:Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1071C300-B9B3-4D3E-B061-44D923706AA0}|TicTacToe.vcxproj|C:\\Users\\Joao\\Desktop\\COdeETst\\TicTacToe\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1071C300-B9B3-4D3E-B061-44D923706AA0}|TicTacToe.vcxproj|solutionrelative:Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1071C300-B9B3-4D3E-B061-44D923706AA0}|TicTacToe.vcxproj|C:\\Users\\Joao\\Desktop\\COdeETst\\TicTacToe\\TicTacToe.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{1071C300-B9B3-4D3E-B061-44D923706AA0}|TicTacToe.vcxproj|solutionrelative:TicTacToe.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1071C300-B9B3-4D3E-B061-44D923706AA0}|TicTacToe.vcxproj|C:\\Users\\Joao\\Desktop\\COdeETst\\TicTacToe\\Model.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1071C300-B9B3-4D3E-B061-44D923706AA0}|TicTacToe.vcxproj|solutionrelative:Model.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1071C300-B9B3-4D3E-B061-44D923706AA0}|TicTacToe.vcxproj|C:\\Users\\Joao\\Desktop\\COdeETst\\TicTacToe\\State.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1071C300-B9B3-4D3E-B061-44D923706AA0}|TicTacToe.vcxproj|solutionrelative:State.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +30,69 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "State.h",
+              "DocumentMoniker": "C:\\Users\\Joao\\Desktop\\COdeETst\\TicTacToe\\State.h",
+              "RelativeDocumentMoniker": "State.h",
+              "ToolTip": "C:\\Users\\Joao\\Desktop\\COdeETst\\TicTacToe\\State.h",
+              "RelativeToolTip": "State.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-03T01:23:23.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Model.h",
+              "DocumentMoniker": "C:\\Users\\Joao\\Desktop\\COdeETst\\TicTacToe\\Model.h",
+              "RelativeDocumentMoniker": "Model.h",
+              "ToolTip": "C:\\Users\\Joao\\Desktop\\COdeETst\\TicTacToe\\Model.h",
+              "RelativeToolTip": "Model.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-03T01:17:35.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Game.cpp",
+              "DocumentMoniker": "C:\\Users\\Joao\\Desktop\\COdeETst\\TicTacToe\\Game.cpp",
+              "RelativeDocumentMoniker": "Game.cpp",
+              "ToolTip": "C:\\Users\\Joao\\Desktop\\COdeETst\\TicTacToe\\Game.cpp",
+              "RelativeToolTip": "Game.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-03T01:16:09.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Game.h",
+              "DocumentMoniker": "C:\\Users\\Joao\\Desktop\\COdeETst\\TicTacToe\\Game.h",
+              "RelativeDocumentMoniker": "Game.h",
+              "ToolTip": "C:\\Users\\Joao\\Desktop\\COdeETst\\TicTacToe\\Game.h",
+              "RelativeToolTip": "Game.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-03T01:05:02.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "TicTacToe.cpp",
               "DocumentMoniker": "C:\\Users\\Joao\\Desktop\\COdeETst\\TicTacToe\\TicTacToe.cpp",
               "RelativeDocumentMoniker": "TicTacToe.cpp",
               "ToolTip": "C:\\Users\\Joao\\Desktop\\COdeETst\\TicTacToe\\TicTacToe.cpp",
               "RelativeToolTip": "TicTacToe.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-02-03T00:25:58.929Z",
               "EditorCaption": ""
