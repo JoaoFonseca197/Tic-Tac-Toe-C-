@@ -11,16 +11,18 @@ void Game::StartGame()
 	int		turn = 0;
 	bool	gameEnd = false;
 	bool	moveVerification;
+	char	currentPlayer;
+
 	UI		UI;
 	Model	model;
-	int		playerMove;
 	UI.PrintBoard(model.board);
 	
 	
 	
 	while (!gameEnd)
 	{
-		char currentPlayer;
+		int	 playerMove;
+
 		
 		if (model.getTurn() % 2 == 0)
 		{
@@ -39,8 +41,22 @@ void Game::StartGame()
 		if (moveVerification)
 		{
 			model.MakeMove(playerMove,currentPlayer);
+			gameEnd = model.VictoryVerification(currentPlayer);
 		}
+		else
+		{
+			UI.PrintMessage("Invalid move!\n");
+		}
+
 		UI.PrintBoard(model.board);
+
+		if (gameEnd)
+		{
+			std::string player{currentPlayer};
+			std::string winnerMessage = "Player " + player + " Wins!";
+			UI.PrintMessage(winnerMessage);
+		}
+		
 
 	}
 
